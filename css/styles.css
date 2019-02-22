@@ -1,0 +1,36 @@
+h1 {
+  color: #673ab7 text-align: center;
+  text-decoration:
+    /* NOTE:  */
+  ;
+  font-size: 50pt;
+  font-style: italic;
+  color: blue;
+  font-family: monospace;
+  font-size:
+}
+
+body {
+  background-image: url("https://i.imgur.com/PZNCJ2y.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 50px;
+  margin: 70px;
+  background-attachment: fixed;
+  text-align: center;
+  text-indent: inherit;
+  page-break-inside: block;
+
+}
+
+.Trojan {
+  text-align: left;
+  font-size: 40px;
+  text-decoration: underline;
+  color: #303f9f;
+  text-decoration-color: #1a237e padding:50px
+
+}
+.score {
+  display: none;
+}
