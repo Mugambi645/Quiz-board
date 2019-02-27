@@ -9,6 +9,6 @@ $(document).ready(function() {
     var Question7=parseInt($("input:radio[name=Question7]:checked").val());
     var result =(Question1+Question2+Question3+Question4+Question5+Question6+Question7);
     //document.getElementById("output").innerHTML = "you have scored" + result;
-    alert(result);
+    prompt(result);
 });
 });
